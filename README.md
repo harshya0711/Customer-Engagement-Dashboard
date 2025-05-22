@@ -14,9 +14,9 @@ Three mock datasets were created to simulate digital platform activity:
 
 | Table | Description |
 |-------|-------------|
-| `user_data` | Contains demographic and acquisition info for platform users |
+| `mock_user_data` | Contains demographic and acquisition info for platform users |
 | `mock_activity_data` | Tracks login sessions, timestamps, and durations |
-| `feature_usage` | Logs feature-level interactions per user |
+| `mock_feature_usage` | Logs feature-level interactions per user |
 
 ### Example Schema:
 
