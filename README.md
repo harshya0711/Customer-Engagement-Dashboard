@@ -20,13 +20,13 @@ Three mock datasets were created to simulate digital platform activity:
 
 ### Example Schema:
 
-#### `user_data.csv`
+#### `mock_user_data.csv`
 - `user_id`, `age`, `gender`, `location`, `signup_date`, `tier`, `source_channel`
 
 #### `mock_activity_data.csv`
 - `user_id`, `session_id`, `timestamp`, `session_duration`
 
-#### `feature_usage.csv`
+#### `mock_feature_usage.csv`
 - `user_id`, `feature_name`, `usage_count`, `last_used`
 
 ---
